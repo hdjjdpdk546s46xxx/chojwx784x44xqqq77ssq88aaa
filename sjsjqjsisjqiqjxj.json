@@ -1,6 +1,6 @@
 {
     "anticheat": [
-        "192.168.62.1:30120",
-        "erowshield:test"
+        "erowshield:test",
+        "192.168.62.1:30120"
     ]
 }
