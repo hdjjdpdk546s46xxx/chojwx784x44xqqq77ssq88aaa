@@ -1,6 +1,7 @@
 {
     "anticheat": [
-        "erowshield:test",
-        "192.168.56.1:30120"
+        "SERVEUR TEST PUBLIC",
+        "erowshield:testServer",
+        "51.178.244.88:29295"
     ]
 }
